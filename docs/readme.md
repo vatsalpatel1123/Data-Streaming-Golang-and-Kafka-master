@@ -55,7 +55,9 @@ This project is a high-performance API built in Golang, designed to stream data 
 
 5. Optionally, run Prometheus metrics server:
    ```bash
+   prometheus --config.file=prometheus.yml
    go run monitoring/prometheus.go
+  - Access at: http://localhost:9090/
 
 6. Run the application with final benchmark:
    ```bash
