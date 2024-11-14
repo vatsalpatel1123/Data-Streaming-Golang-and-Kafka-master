@@ -157,8 +157,5 @@ Prometheus metrics are available at `http://localhost:2112/metrics`. Use Prometh
 - **Complex Data Processing**: Integrate real-time machine learning predictions.
 - **Enhanced Error Handling**: Capture and log finer error details for improved troubleshooting.
 
-## Contact
-- For inquiries, please contact me 
-- Author: **Ayushi Modi**
-- Email: **ayushimodi818@gmail.com**.
+
 
